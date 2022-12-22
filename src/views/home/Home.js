@@ -47,7 +47,7 @@ const Home = () => {
                 </CCallout>
               ))
             ) : (
-              <CCallout color="info">No Active Alerts</CCallout>
+              <CCallout color="info">No Active Alerts!</CCallout>
             )}
           </CippContentCard>
         </CCol>
